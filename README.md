@@ -1,6 +1,6 @@
-<h1 align="center">Larissa Koinda</h1>
-
-<p align="center"><code>@chaidatou</code></p>
+<p align="center">
+  <img src="./assets/banner.png" alt="KOINDA Larissa Chaidatou — Cybersécurité × Intelligence Artificielle" width="100%">
+</p>
 
 <p align="center">
   <strong>Cybersécurité défensive & offensive — détection, supervision, durcissement</strong><br>
